@@ -1,0 +1,22 @@
+# Dart/Flutter tool artifacts
+.dart_tool/
+.packages
+.pub/
+
+# Build outputs
+build/
+coverage/
+
+# Flutter plugin metadata
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE/editor files
+.idea/
+*.iml
+
+# Package lockfile (typically not committed for library packages)
+pubspec.lock
+
+# OS files
+.DS_Store
